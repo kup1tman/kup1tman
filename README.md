@@ -1,5 +1,5 @@
-[![MasterHead](https://reheader.glitch.me/home)](https://github.com/kup1tman)
-
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/10cdba67-7be4-4527-b067-ed702ee3cb3c)
+">
 
 <!--
 **kup1tman/kup1tman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
